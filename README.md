@@ -1,4 +1,4 @@
-# Kharagpur Data Science Hackathon 2026 – Track A
+#  Evaluating Narrative Backstory Consistency through Long-Context Reasoning
 
 Task:
 Given a full novel and a hypothetical backstory of a character,
@@ -8,3 +8,4 @@ This project uses:
 - Long-context chunking
 - Evidence retrieval
 - Reasoning-based classification
+
